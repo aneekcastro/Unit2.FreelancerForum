@@ -1,0 +1,54 @@
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;  
+    background-color: #eaf8e3;  
+    text-align: center;  
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header */
+  h1 {
+    color: #4CAF50;  
+    margin-top: 20px;
+  }
+  
+  /* Average price */
+  p {
+    font-size: 1.2em;
+    color: #388E3C;  
+  }
+  
+  /* Table */
+  table {
+    width: 80%;  
+    margin: 20px auto;  
+    border-collapse: collapse;  
+  }
+  
+  /* Table header */
+  th {
+    background-color: #388E3C;  
+    color: white;  
+    padding: 10px;
+  }
+  
+  /* Table cell */
+  td {
+    padding: 8px;
+    border: 1px solid #ddd;  
+  }
+  
+  /* Alternate row  */
+  tr:nth-child(even) {
+    background-color: #f2f2f2;  
+  }
+  
+  
+  tr:hover {
+    background-color: #d3e9d3;  
+  }
+  
+  
+  
+  
